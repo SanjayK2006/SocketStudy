@@ -1,5 +1,6 @@
 # Ex.No:1a  			Study of Socket Programming
-
+### Name: Sanjay K
+### Reg No: 212223220094
 ## Aim: 
 To perform a study on Socket Programming.
 ## Introduction:
